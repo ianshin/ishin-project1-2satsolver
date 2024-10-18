@@ -1,0 +1,40 @@
+Processing file: test_files/test_10vars.cnf.csv
+File test_10vars.cnf.csv parsed successfully.
+
+--- Result for test_10vars.cnf.csv ---
+Satisfiable: No
+Execution Time: 0.000336 seconds
+
+----------------------------------------
+Processing file: test_files/test_50vars.cnf.csv
+File test_50vars.cnf.csv parsed successfully.
+
+--- Result for test_50vars.cnf.csv ---
+Satisfiable: Yes
+Execution Time: 0.001474 seconds
+
+----------------------------------------
+Processing file: test_files/test_100vars.cnf.csv
+File test_100vars.cnf.csv parsed successfully.
+
+--- Result for test_100vars.cnf.csv ---
+Satisfiable: Yes
+Execution Time: 0.003305 seconds
+
+----------------------------------------
+Processing file: test_files/test_200vars.cnf.csv
+File test_200vars.cnf.csv parsed successfully.
+
+--- Result for test_200vars.cnf.csv ---
+Satisfiable: No
+Execution Time: 0.005686 seconds
+
+----------------------------------------
+Processing file: test_files/test_500vars.cnf.csv
+File test_500vars.cnf.csv parsed successfully.
+
+--- Result for test_500vars.cnf.csv ---
+Satisfiable: No
+Execution Time: 0.012901 seconds
+
+----------------------------------------
