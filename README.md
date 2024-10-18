@@ -1,0 +1,1 @@
+# ishin-project1-2satsolver
